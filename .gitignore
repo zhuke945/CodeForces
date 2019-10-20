@@ -1,4 +1,7 @@
 *.opendb
 *.tlog
-/Debug
+Debug/
 *.exe
+*.so
+*.vb/
+*.db
